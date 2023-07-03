@@ -13,10 +13,16 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl md:mt-20 ">
-          I have a strong background in Javascript and React with 5 years of
-          experience as a Software Engineer. I worked on various client projects
-          using Javascript, ReactJs, NextJs, Html, CSS, Jquery, Redux,
-          Bootstrap, and HandlebarJS.
+          I have a strong background in Javascript and React with six months of
+          experience as an intern and 2.3 years of experience as a Software
+          Engineer L1 at Keross Research and Development Centre Private Limited.
+          I worked on various internal and client projects using Javascript,
+          ReactJs, Html, CSS, Jquery, Redux, Bootstrap, and HandlebarJS.
+        </p>
+        <br />
+        <p className="text-xl">
+          I completed B.Tech in Information Technology from Bengal Institute of
+          Technology and my schooling at St.Sebastian School.
         </p>
         <br />
         <p className="text-xl">
@@ -25,9 +31,9 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl">
-          <span className="font-bold">Phone :</span> +91 12345 67890
+          <span className="font-bold">Phone :</span> +91 90888 59952
           <br />
-          <span className="font-bold">Email :</span> abc@gmail.com
+          <span className="font-bold">Email :</span> syedmesamali@gmail.com
         </p>
       </div>
     </div>
